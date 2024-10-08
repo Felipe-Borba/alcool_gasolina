@@ -59,7 +59,7 @@ class _HomeState extends State<Home> {
             children: <Widget>[
               Padding(
                 padding: const EdgeInsets.only(bottom: 32),
-                child: Image.asset("imagens/logo.png"),
+                child: Image.asset("assets/images/logo.png"),
               ),
               const Padding(
                 padding: EdgeInsets.only(bottom: 10),
